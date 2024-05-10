@@ -7,8 +7,9 @@ Noel Elias | [GitHub](https://github.com/eliaswnoel)
 
 ## Technologies Used
 React<br>
-Django<br>
+Express<br>
 JavaScript<br>
+Node.js
 
 
 ## Wireframes
